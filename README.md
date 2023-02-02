@@ -17,3 +17,18 @@ more supportive and works towards the greater good. **The three aspects of the b
 - New Zealand
 
 [Click here to know about me](AboutMe.md)
+
+
+---
+## Countries to Visit
+
+The below table gives the information of the countries to visit 
+
+| **Country_Name**| **Reason_to_visit**| **Days_to_Spend**|
+|--- | :---:| ---:|
+| France  |  Visit Paris,World's most iconic landmarks, world-class art and architecture. | 5 |
+| Germany | beautiful towns and villages. | 4 |
+|Ireland  | its scenic coastlines, towns, and villages along the shoreline. | 7 |
+|India    | Buddhist paintings, rock-cut architecture and stone carvings. | 8 |
+
+---

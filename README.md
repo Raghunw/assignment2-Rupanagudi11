@@ -41,3 +41,31 @@ The below table gives the information of the countries to visit
 > Life is my college, May I graduate well , and earn some HONORS.- *louisa Alcott*
 
 ---
+
+## Sass Stack overflow
+
+
+> [Stack overflow](https://stackoverflow.com/questions/tagged/sass)
+
+
+```
+$o-grid-default-config: (
+    columns: 12,
+    gutter: 10px,
+    min-width: 240px,
+    max-width: 1330px,
+    layouts: (
+        S:  370px,  // ≥20px columns
+        M:  610px,  // ≥40px columns
+        L:  850px,  // ≥60px columns
+        XL: 1090px  // ≥80px columns
+    ),
+    fluid: true,
+    debug: false,
+    fixed-layout: M,
+    enhanced-experience: true
+);
+
+```
+
+> [Link for Snippet Source](https://css-tricks.com/snippets/sass/deep-getset-maps/)

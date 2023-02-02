@@ -32,3 +32,12 @@ The below table gives the information of the countries to visit
 |India    | Buddhist paintings, rock-cut architecture and stone carvings. | 8 |
 
 ---
+
+## Funny Quotes
+
+> I'm not superstitious but I am a little stitious.- *Michael Scott*
+
+
+> Life is my college, May I graduate well , and earn some HONORS.- *louisa Alcott*
+
+---
